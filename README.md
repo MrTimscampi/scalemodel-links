@@ -39,6 +39,8 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 
 ## Manufacturers
 - [Airfix](https://www.airfix.com/)
+- [Hasegawa 🇯🇵](http://www.hasegawa-model.co.jp/)
+- [Hasegawa](http://www.hasegawa-model.co.jp/gsite/) - Global site
 - [Revell of Germany 🇩🇪](https://www.revell.de/)
 - [Revell USA](http://www.revell.com/)
 - [Tamiya, Inc. 🇯🇵](http://www.tamiya.com/japan/index.htm)
